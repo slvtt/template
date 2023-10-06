@@ -27,7 +27,7 @@ export default function MyApp(props: MyAppProps) {
   return (
     <React.Fragment>
       <Head>
-        <title>MadBrains</title>
+        <title>Template</title>
       </Head>
       <ErrorBoundary>
         <Provider store={store}>
